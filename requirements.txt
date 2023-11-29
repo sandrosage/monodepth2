@@ -1,0 +1,6 @@
+numpy 
+pillow
+torchvision==0.2.1
+torch
+opencv-python
+matplotlib
